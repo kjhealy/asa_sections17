@@ -1,0 +1,53 @@
+﻿sec,section,total_members,regular_members,associate_members,student_members,retired_members,black,asian,hispanic,native,white,other,multiple,missing,pct_female
+Aging,Aging & the Life Course,607,353,40,181,33,32,81,22,0,428,10,18,16,62.76771005
+Alcohol,Alcohol Drugs & Tobacco,157,95,9,43,10,7,6,7,0,123,0,9,5,52.86624204
+Altruism,"Altruism, Morality, & Social Solidarity",259,134,17,90,18,5,19,6,0,192,14,11,12,45.55984556
+Animals,Animals & Society,146,82,11,44,9,0,0,0,0,116,0,11,19,67.12328767
+Asia,Asia & Asian America,366,214,22,123,7,0,263,0,0,55,16,17,15,64.75409836
+Body,Body & Embodiment,307,171,15,115,6,28,16,13,0,207,13,19,11,74.59283388
+Child,Children & Youth,342,197,11,119,14,23,36,21,0,228,8,20,6,70.46783626
+CBSM,Coll. Behavior & Social Mov.,807,473,40,259,35,30,67,45,0,548,30,44,43,46.34448575
+CITAM,"Comm., Info Tech., & Media Soc.",350,173,51,112,14,22,31,18,0,215,24,15,25,48.85714286
+Urban,Community & Urban Sociology,600,368,38,165,28,54,43,29,0,384,21,40,29,44.5
+Comp,Comparative & Historical Soc.,714,404,52,220,38,17,85,34,0,464,39,31,44,39.49579832
+Consumers,Consumers & Consumption,300,162,21,111,6,12,21,12,0,225,7,11,12,54
+Deviance,"Crime, Law, & Deviance",611,322,28,238,22,43,26,43,0,432,16,38,13,53.5188216
+Diability,Disability & Society,191,114,7,56,13,11,5,9,0,148,5,9,4,67.53926702
+Econ,Economic Sociology,783,408,85,266,24,14,96,35,0,540,27,35,36,39.59131545
+Environ,Environmental Sociology,510,296,27,156,31,13,24,17,0,395,14,27,20,43.7254902
+Ethnom,Enthnomethodology & Conv. Analysis,119,54,19,36,10,0,14,7,0,67,7,6,18,32.77310924
+Evolution,"Evolution, Biology, & Society",125,75,8,25,17,0,6,0,0,101,0,5,13,29.6
+Family,Family,679,412,31,215,21,30,91,25,0,479,17,23,14,75.84683358
+Global,Global & Transnational Soc.,697,396,52,226,23,22,137,41,0,367,41,45,44,53.80200861
+History,History of Sociology,169,95,20,22,32,6,8,0,0,122,13,6,14,26.62721893
+Rights,Human Rights,233,136,16,73,8,5,22,18,0,144,16,13,15,57.51072961
+Inequality,"Inequality, Poverty, & Mobility",815,458,47,288,22,61,84,39,6,534,21,42,28,55.82822086
+Migration,International Migration,620,381,41,182,16,32,136,111,0,246,35,29,31,64.51612903
+Labor,Labor & Labor Movements,412,240,21,132,19,9,53,29,0,269,0,22,30,47.08737864
+Latina,Latina(o) Sociology,386,228,20,129,9,10,13,233,0,69,8,44,9,61.13989637
+Marxist,Marxist Sociology,303,181,11,87,24,8,17,13,0,218,12,16,19,26.07260726
+Math,Mathematical Sociology,206,104,26,61,15,0,26,5,0,148,0,5,22,20.87378641
+Medical,Medical Sociology,986,563,60,315,47,76,84,30,0,707,14,47,28,64.80730223
+Methods,Methodology,374,209,32,110,23,8,40,9,0,274,9,15,19,32.0855615
+OOW,"Orgs., Occupations, & Work",966,532,88,319,27,36,108,34,0,690,20,48,30,51.6563147
+Peace,"Peace, War, & Soc. Conflict",302,138,18,120,26,9,17,16,0,209,21,15,15,48.67549669
+PEWS,PEWS,373,186,25,141,21,10,43,22,0,240,14,25,19,40.48257373
+Political,Political Sociology,820,459,52,273,36,24,78,40,0,545,36,45,52,42.80487805
+RGC,"Race, Gender, & Class",904,501,41,339,23,175,87,76,7,421,33,78,27,74.77876106
+Minorities,Racial & Ethnic Minorities,852,542,30,257,23,221,90,118,6,280,25,93,19,62.20657277
+Rationality,Rationality & Society,148,85,19,33,11,0,21,0,0,98,5,7,17,26.35135135
+SKAT,"Science, Knowledge, & Tech. ",581,313,48,200,19,21,48,13,0,421,27,26,25,49.91394148
+Gender,Sex & Gender,1099,630,41,394,34,39,93,49,0,800,31,59,28,80.25477707
+SocPsych,Social Psychology,610,317,24,225,43,39,43,17,0,453,11,25,22,50.98360656
+Public,Practice & Public Soc.,303,165,34,84,20,10,19,10,0,223,6,19,16,61.38613861
+Culture,Culture,1028,603,72,322,31,53,85,46,0,710,35,49,50,48.83268482
+Development,Development,507,301,40,148,18,20,88,23,0,285,24,35,32,51.87376726
+Educ,Education,713,371,71,239,31,57,68,42,0,466,13,39,28,56.24123422
+Emotions,Emotions,242,138,13,73,18,6,15,10,0,171,11,14,15,60.74380165
+Law,Law,405,200,29,159,16,24,37,28,0,254,20,24,18,60.98765432
+Mental,Mental Health,313,194,21,84,13,25,27,10,0,221,0,16,14,57.1884984
+Pop,Population,474,314,23,114,23,15,69,19,0,332,0,21,18,58.43881857
+Religion,Religion,504,296,31,142,35,19,44,16,0,367,16,22,20,40.27777778
+Sexualities,Sexualities,504,259,26,211,8,20,42,19,0,364,10,34,15,57.14285714
+Teaching,Teaching & Learning in Soc.,620,418,39,138,25,26,29,16,0,487,12,33,17,63.38709677
+Theory,Theory,826,435,61,271,59,31,59,28,0,573,38,46,51,33.53510896
