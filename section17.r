@@ -37,6 +37,8 @@ sections <- sections %>% mutate(students_pctdiff = pct_students - mean_students,
                                 fem_pctdiff = pct_female - mean_female,
                                 fem_flag = fem_pctdiff > 0)
 
+
+## Column charts
 p <- ggplot(sections, aes(y = students_pctdiff,
                           x = reorder(section, students_pctdiff),
                           fill = stu_flag))
@@ -109,6 +111,23 @@ p + geom_col() + scale_fill_manual(values = my_colors("bly")) +
          caption = "Data: ASA") +
     coord_flip()
 
+
+## Scatterplot of pct_female vs members
+p <- ggplot(sections, aes(x = total_members,
+                          y = pct_female,
+                          label = sec))
+
+p + geom_hline(yintercept = 50, alpha = 0.4, color=my_colors("bly")[5]) +
+    geom_smooth(alpha = 0.1, fill = my_colors("bly")[1], color = my_colors("bly")[1]) +
+    geom_point(color = my_colors("cb")[1]) +
+    geom_text_repel(size = 2) +
+    labs(x = "Section Membership",
+         y = "Percent Female",
+         title = "Percent Female by ASA Section Size, 2017",
+         caption = "Data: ASA")
+
+
+## Ternary plot
 
 p <- ggtern(data = sections,
             mapping = aes(y = pct_students, z = pct_female, x = pct_retired))
