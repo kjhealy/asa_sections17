@@ -5,5 +5,5 @@
 Data: http://www.asanet.org/research-and-publications/research-sociology/trends-sociology/asa-membership
 
 
-Blog post: http://kieranhealy.org/
+Blog post: https://kieranhealy.org/blog/archives/2018/09/12/asa-section-demographics/ 
 
