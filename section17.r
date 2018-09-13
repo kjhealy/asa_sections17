@@ -128,13 +128,14 @@ p + geom_hline(yintercept = 50, alpha = 0.4, color=my_colors("bly")[5]) +
 
 
 ## Ternary plot
+## Use with caution ... really these data aren't properly suited
 
 p <- ggtern(data = sections,
             mapping = aes(y = pct_students, z = pct_female, x = pct_retired))
 
 p0 <- p + geom_text(aes(label = sec), size = 2) +
     tern_limits(R = 0.9, T = 0.75, L = 0.55) +
-    labs(y = "% Student", x = "% Retired", z = "% Female") +
+    labs(y = "More Students", x = "More Retirees", z = "More Women") +
     theme_bvbg() +
     theme_notitles() +
     theme(tern.panel.background = element_rect(fill = "white"),
